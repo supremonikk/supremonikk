@@ -1,26 +1,27 @@
 # Hey there 👋, I'm Nikko 
 
 ## 👨‍🎓 Introduction  
-I’m Nikko Virtudez, a Senior IT Student 🎓 from LSPU Sta. Cruz, who’s passionate about coding and exploring the analytics world 💻✨.  
-Right now, I’m on a journey to grow as an analyst and build cool projects along the way 🚀.  
+I’m Nikko Virtudez, a Senior IT Student 🎓 with a strong interest in Business Intelligence (BI) and Analytics.
+I enjoy working with data, exploring patterns, and using technology to turn numbers into insights that guide smarter decisions.
 
 ---
 
 ## 🎯 Goals  
-- 🌱 Keep learning and upskill
-- 🛠 Build beginner-friendly projects and improve step by step  
-- 📊 Dive deeper into data, analytics, and business intelligence
-- 🤝 Connect with other professionals and share knowledge  
+-📊 Learn advanced data analytics and visualization techniques
+-🐍 Improve my coding skills in Python for data analysis
+-🗄️ Strengthen SQL knowledge for querying and managing data
+-🤖 Explore forecasting and machine learning for BI insights
+-💼 Build a portfolio of BI projects that solve real-world business problems
 
 ---
 
 ## 🛠 Skills  
 
 **Project Management** 👨‍💼  
-█████░░░░░ 50%  
+██████░░░░ 60%  
 
 **Analytical** 📊  
-████░░░░░░ 40%  
+█████░░░░░ 50%  
 
 **Python** 🐍  
 ███░░░░░░░ 30%  
@@ -32,7 +33,7 @@ Right now, I’m on a journey to grow as an analyst and build cool projects alon
 ████░░░░░░ 40%  
 
 **JavaScript, HTML, CSS** 💻  
-███░░░░░░░ 30%  
+████░░░░░░ 40%  
 
 
 
