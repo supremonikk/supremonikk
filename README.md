@@ -48,7 +48,7 @@ I’m still learning — but every line of code and experience brings me closer 
 
 ## 📫 Contact  
 - ✉️ Email: nkko.virtudez@gmail.com
-- 🔗 LinkedIn: (www.linkedin.com/in/nikko-virtudez-53235a37a)
+- 🔗 LinkedIn: www.linkedin.com/in/nikko-virtudez-53235a37a
 
 ---
 
