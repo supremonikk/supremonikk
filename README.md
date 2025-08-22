@@ -8,9 +8,13 @@ I enjoy working with data, exploring patterns, and using technology to turn numb
 
 ## 🎯 Goals  
 -📊 Learn advanced data analytics and visualization techniques
+
 -🐍 Improve my coding skills in Python for data analysis
+
 -🗄️ Strengthen SQL knowledge for querying and managing data
+
 -🤖 Explore forecasting and machine learning for BI insights
+
 -💼 Build a portfolio of BI projects that solve real-world business problems
 
 ---
